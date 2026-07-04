@@ -249,20 +249,4 @@ For issues and questions:
 - Open an issue on GitHub
 - Check existing issues for solutions
 
-## 📄 License
 
-MIT License - see LICENSE file for details
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Supabase for database and storage
-- Express.js community
-- Render for hosting
-
----
-
-**Made with ❤️ for better civic management**
